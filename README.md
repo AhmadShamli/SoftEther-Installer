@@ -7,3 +7,5 @@ run in terminal below command
 
 ./install.sh
 
+Currently tested on:
+  1. Debian Arm Server(C1) on Scaleway.
