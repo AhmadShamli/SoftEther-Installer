@@ -1,7 +1,7 @@
 #!/bin/bash
 
-latest="v4.19-9605-beta-2016.03.06"
-lateststable="v4.18-9570-rtm-2015.07.26"
+latest="v4.22-9634-beta"
+lateststable="v4.20-9608-rtm-2016.04.17"
 #Release Date: 2015-10-19
 initfile="vpnserver2"
 
